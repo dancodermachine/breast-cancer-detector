@@ -8,7 +8,7 @@ The following algorithms were used: K-Nearest Neighbors, SVM, Decision Trees, Vo
 
 A summary of the accuracy scores and runtime values for different algorithms is shown below:
 
-<img src="summary_algo.png">
+<img src="summary_algo.png", width="550", class="center">
 
 **Conclusion:** The top 3 algorithms were Voting Classifier, SVM, and Stochastic Gradient Boosting with accuracy scores of 0.967, 0.962 and 0.962, respectively. However, among those 3 algorithms, the fastest was SVM with a runtime of 3.68 seconds. Therefore, it can be concluded that the most efficient algorithm was the SVM.
 
